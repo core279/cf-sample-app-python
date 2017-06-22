@@ -1,0 +1,5 @@
+---
+applications:
+ - name: tic100-sample-app
+   random-route: true
+   memory: 128M
